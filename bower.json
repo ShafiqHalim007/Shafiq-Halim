@@ -1,0 +1,34 @@
+{
+  "name": "shafiq-halim",
+  "description": "Mohamad Shafiq Abdul Halim Fans Blog",
+  "main": "index.php",
+  "authors": [
+    "Mohamad Shafiq Bin Abdul Halim (\u0016\u0016https://www.facebook.com/prince.shafiq.946)"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "barisan",
+    "nasional",
+    "umno",
+    "pas",
+    "najib",
+    "razak",
+    "politik",
+    "semasa",
+    "berita",
+    "panas",
+    "info",
+    "fakta",
+    "sejarah",
+    "islam",
+    "tamadun"
+  ],
+  "homepage": "https://github.com/ShafiqHalim007/shafiq-halim",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
