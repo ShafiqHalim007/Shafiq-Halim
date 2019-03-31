@@ -2,7 +2,7 @@
   "name": "shafiq-halim",
   "version": "1.3.19",
   "description": "Mohamad Shafiq Abdul Halim Fans Blog",
-  "main": "index.html",
+  "main": "index.php",
   "dependencies": {
     "browser-sync": "^2.26.3",
     "gulp-clean-css": "^4.0.0",
